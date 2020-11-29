@@ -8,7 +8,7 @@ El protocolo que se ha tenido en cuenta lo podemos descargar del siguiente enlac
 
 <center>
 
-[Protocolo frente a la covid-19 de obligado cumplimiento para los impresores](../protocolo/protocolo%20covid.pdf)
+[Protocolo frente a la covid-19 de obligado cumplimiento para los impresores](../protocolo/protocolo.pdf)
 
 </center>
 
