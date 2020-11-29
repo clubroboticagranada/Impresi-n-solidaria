@@ -3,7 +3,7 @@ Para todos los modelos es necesario imprimir el siguiente documento:
 
 <center>
 
-[Protocolo frente a la covid-19 de obligado cumplimiento para los impresores](../protocolo/protocolo.pdf)
+[Protocolo frente a la covid-19 de obligado cumplimiento para los impresores](../protocolo/protocolo.zip)
 
 </center>
 
