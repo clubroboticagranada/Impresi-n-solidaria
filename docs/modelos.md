@@ -47,7 +47,7 @@ Para todos los modelos es necesario imprimir el siguiente documento:
 
 | Nave X-Wearing | Peonzas o trompos | Robocilio - Regalo |
 |:-:|:-:|:-:|
-| ![Nave X-Wearing](../img/x-wearing.png) | ![Peonzas o trompos](../img/trompos.png) | ![Robocilio - Regalo](../img/RobocilioWeb.png) |
+| ![Nave X-Wearing](../img/x-wearing.png) | ![Peonzas o trompos](../img/trompos.png) | ![Robocilio - Regalo](../img/robocilio.png) |
 | [Descargar](../12-Nave-para-llevar-X-Wearing/12-Nave-para-llevar-X-Wearing.zip)  | [Descargar](../13-trompos/13-trompos.zip) | [Descargar](../14-Robocilio/Robocilio70.stl) |
 
 </center>
