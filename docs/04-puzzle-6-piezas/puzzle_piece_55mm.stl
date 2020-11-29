@@ -1,0 +1,184 @@
+solid puzzle piece origin horizontal (fixed) (fixed)
+ facet normal 0.000000 -1.000000 0.000000
+  outer loop
+   vertex 82.500000 8.750000 8.750000
+   vertex 67.625626 8.750000 26.250000
+   vertex 42.688446 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 -1.000000 0.000000
+  outer loop
+   vertex 67.625626 8.750000 26.250000
+   vertex 82.500000 8.750000 8.750000
+   vertex 82.500000 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 -1.000000 0.000000
+  outer loop
+   vertex 82.500000 8.750000 8.750000
+   vertex 27.500000 8.750000 26.250000
+   vertex 27.500000 8.750000 8.750000
+  endloop
+ endfacet
+ facet normal 0.000000 -1.000000 0.000000
+  outer loop
+   vertex 27.500000 8.750000 26.250000
+   vertex 82.500000 8.750000 8.750000
+   vertex 42.688446 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 1.000000 0.000000
+  outer loop
+   vertex 67.625626 26.250000 8.750000
+   vertex 82.500000 26.250000 26.250000
+   vertex 82.500000 26.250000 8.750000
+  endloop
+ endfacet
+ facet normal 0.000000 1.000000 0.000000
+  outer loop
+   vertex 82.500000 26.250000 26.250000
+   vertex 67.625626 26.250000 8.750000
+   vertex 80.000000 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 1.000000
+  outer loop
+   vertex 67.625626 8.750000 26.250000
+   vertex 55.062813 26.250000 26.250000
+   vertex 42.688446 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal -1.000000 0.000000 0.000000
+  outer loop
+   vertex 27.500000 8.750000 26.250000
+   vertex 27.500000 26.250000 8.750000
+   vertex 27.500000 8.750000 8.750000
+  endloop
+ endfacet
+ facet normal -1.000000 0.000000 0.000000
+  outer loop
+   vertex 27.500000 26.250000 8.750000
+   vertex 27.500000 8.750000 26.250000
+   vertex 27.500000 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 1.000000 0.000000
+  outer loop
+   vertex 27.500000 26.250000 26.250000
+   vertex 42.688446 26.250000 8.750000
+   vertex 27.500000 26.250000 8.750000
+  endloop
+ endfacet
+ facet normal 0.000000 1.000000 0.000000
+  outer loop
+   vertex 42.688446 26.250000 8.750000
+   vertex 27.500000 26.250000 26.250000
+   vertex 30.314079 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal -0.707107 0.500000 0.500000
+  outer loop
+   vertex 55.062813 26.250000 26.250000
+   vertex 42.688446 26.250000 8.750000
+   vertex 42.688446 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 1.000000
+  outer loop
+   vertex 27.500000 8.750000 26.250000
+   vertex 30.314079 26.250000 26.250000
+   vertex 27.500000 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 1.000000
+  outer loop
+   vertex 30.314079 26.250000 26.250000
+   vertex 27.500000 8.750000 26.250000
+   vertex 42.688446 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 1.000000
+  outer loop
+   vertex 82.500000 8.750000 26.250000
+   vertex 80.000000 26.250000 26.250000
+   vertex 67.625626 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 1.000000
+  outer loop
+   vertex 80.000000 26.250000 26.250000
+   vertex 82.500000 8.750000 26.250000
+   vertex 82.500000 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal -0.707107 0.500000 0.500000
+  outer loop
+   vertex 67.625626 26.250000 8.750000
+   vertex 67.625626 8.750000 26.250000
+   vertex 80.000000 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal 1.000000 0.000000 0.000000
+  outer loop
+   vertex 82.500000 26.250000 8.750000
+   vertex 82.500000 8.750000 26.250000
+   vertex 82.500000 8.750000 8.750000
+  endloop
+ endfacet
+ facet normal 1.000000 0.000000 0.000000
+  outer loop
+   vertex 82.500000 8.750000 26.250000
+   vertex 82.500000 26.250000 8.750000
+   vertex 82.500000 26.250000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 -1.000000
+  outer loop
+   vertex 42.688446 26.250000 8.750000
+   vertex 27.500000 8.750000 8.750000
+   vertex 27.500000 26.250000 8.750000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 -1.000000
+  outer loop
+   vertex 27.500000 8.750000 8.750000
+   vertex 42.688446 26.250000 8.750000
+   vertex 82.500000 8.750000 8.750000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 -1.000000
+  outer loop
+   vertex 82.500000 8.750000 8.750000
+   vertex 42.688446 26.250000 8.750000
+   vertex 67.625626 26.250000 8.750000
+  endloop
+ endfacet
+ facet normal 0.000000 0.000000 -1.000000
+  outer loop
+   vertex 82.500000 8.750000 8.750000
+   vertex 67.625626 26.250000 8.750000
+   vertex 82.500000 26.250000 8.750000
+  endloop
+ endfacet
+ facet normal 0.707107 0.500000 0.500000
+  outer loop
+   vertex 42.688446 26.250000 8.750000
+   vertex 30.314079 26.250000 26.250000
+   vertex 42.688446 8.750000 26.250000
+  endloop
+ endfacet
+ facet normal 0.000000 1.000000 0.000000
+  outer loop
+   vertex 55.062813 26.250000 26.250000
+   vertex 67.625626 26.250000 8.750000
+   vertex 42.688446 26.250000 8.750000
+  endloop
+ endfacet
+ facet normal 0.701743 0.503764 0.503764
+  outer loop
+   vertex 67.625626 26.250000 8.750000
+   vertex 55.062813 26.250000 26.250000
+   vertex 67.625626 8.750000 26.250000
+  endloop
+ endfacet
+endsolid puzzle piece origin horizontal (fixed) (fixed)
